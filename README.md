@@ -1,4 +1,5 @@
 Blender file to let Roblox animators aniamte weapons much easier with this rig, it's simple to use along side easy to understand rigging system
+FK Rig is here if you want to animate in FK, all of them work without doubt.
 
 If you wish to use it then you can! It's all free for everyone.
 
